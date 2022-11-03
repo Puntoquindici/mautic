@@ -1,0 +1,7 @@
+{
+  "name": "My AR Studio",
+  "author": "My AR Studio",
+  "authorUrl": "https://www.myarstudio.cloud",
+  "builder": ["legacy", "grapesjsbuilder"],
+  "features": ["page", "email", "form"]
+}
